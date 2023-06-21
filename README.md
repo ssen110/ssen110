@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swaraj Sen
 - 👀 I’m interested in Machine Learning, Deep Learning, Programming 
-- 🌱 I’m currently pursuing my Masters in CSE from Jadavpur University
+- 🌱 I did my Masters in CSE from Jadavpur University
 - I'm currently working in TalentXO as a software developer
 - 📫 Mail : swaraj.sen2019@gmail.com
 
