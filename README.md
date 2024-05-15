@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **swaraj.sen2019@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1K9Vctf5vt3kVtFbT_s9eRwGWViqbPFiV/view?usp=sharing">My CV</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iuldL_mFkcK63B7zvnLBDJJRwjC_4Jq3/view?usp=sharing">My CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
